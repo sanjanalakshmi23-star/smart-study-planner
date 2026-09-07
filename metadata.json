@@ -1,0 +1,6 @@
+{
+  "name": "StudyPulse: AI Study Scheduler",
+  "description": "AI-assisted study scheduler with syllabus decomposition, exam countdown pacing, auto-adjusting topic distribution, and daily WhatsApp & email reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
